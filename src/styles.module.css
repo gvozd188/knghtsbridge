@@ -1,0 +1,11 @@
+.title {
+    position: absolute;
+    width: 527px;
+    height: 117px;
+    left: 120px;
+    top: 80px;
+    
+    font-family: 'Baron Neue, Sans-serif';
+font-size: 36px;
+line-height: 44px;
+}
