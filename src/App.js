@@ -1,14 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './Component/Header'
-import Main from './Component/Main'
+import Library from './Component/Main'
+import AppStyles from './styles.module.css'
+
+
 
 
 function App() {
-  return (
+  return(
    <>
       <Header />
-      <Main/>
+      <Library/>
       </>
     
   );
