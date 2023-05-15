@@ -1,34 +1,47 @@
-    .title {
-        position: absolute;
-        width: 527px;
-        height: 117px;
-        left: 120px;
-        top: 80px;
+        .title {
+            position: absolute;
+            width: 527px;
+            height: 117px;
+            left: 120px;
+            top: 80px;
+            
+            font-family: 'Baron Neue, Sans-serif';
+        font-size: 36px;
+        line-height: 44px;
+        }
+        li {
+            list-style-type: none;
+            
+        }
+        .big {
         
-        font-family: 'Baron Neue, Sans-serif';
-    font-size: 36px;
-    line-height: 44px;
-    }
-    li {
-        list-style-type: none;
-        
-    }
-    .big {
-       
-font-family: "Lato";
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 24px;
-color: #303030;
-    }
-    .small {
-        
-        font-family: "Lato";
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 26px;
-        color: #777777;
-    }
-   
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+    color: #303030;
+        }
+        .small {
+            
+            font-family: "Lato";
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 26px;
+            color: #777777;
+        }
+        .discript {
+            
+            position: absolute;
+    width: 319px;
+    height: 264px;
+    left: 373px;
+    top: 327px;
+            font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+        }
+    
